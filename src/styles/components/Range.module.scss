@@ -1,0 +1,47 @@
+.rangeMain {
+  select {
+    -webkit-appearance: none;
+    -moz-appearance: none;
+    appearance: none;
+    // background-image: url("/assets/images/down-arrows.png");
+    background-repeat: no-repeat;
+    background-position: right 20px center;
+  }
+
+  label {
+    text-transform: uppercase;
+  }
+
+  .range {
+    -webkit-appearance: none;
+    appearance: none;
+    height: 10px;
+    width: 100%;
+    border-radius: 10em;
+    background-color: #ed6436;
+    outline: none;
+    margin-bottom: 14px;
+  }
+
+  .range::-webkit-slider-thumb {
+    -webkit-appearance: none;
+    appearance: none;
+    width: 35px;
+    height: 35px;
+    border-radius: 50%;
+    background-color: #82c55b;
+    cursor: pointer;
+    position: relative;
+  }
+
+  .range::-moz-slider-thumb {
+    -webkit-appearance: none;
+    appearance: none;
+    width: 25px;
+    height: 25px;
+    border-radius: 50%;
+    background-color: #dbc500;
+    cursor: pointer;
+    border: 3px solid #f4f4f4;
+  }
+}

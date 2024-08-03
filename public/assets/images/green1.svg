@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" class="item__svg" viewBox="0 0 500 500">
+					<clipPath id="bt_bb_organic_animation_641129f1a958d">
+						<path class="item__clippath" d="M 425.19903,237.13547 C 394.81904,150.86547 291.179,38.445457 204.939,68.795457 118.699,99.145457 36.059001,277.17547 66.409001,363.42547 96.759001,449.67546 200.869,452.94546 287.119,422.59546 373.36904,392.24547 455.55903,323.37547 425.19903,237.13547 Z" style="transform: scaleX(1) scaleY(1) translateX(0px) translateY(0px) rotate(0deg);"/>
+					</clipPath>
+					<g class="item__deco" style="transform: scaleX(1) scaleY(1) translateX(0px) translateY(0px) rotate(0deg);">
+						<!--use xlink:href="#deco1" /-->
+						<path class="item__clippath" d="M 311.11885,443.38994 C 398.5941,388.32207 496.55772,245.97207 441.53041,158.52239 386.5031,71.072708 169.62055,24.543084 82.15985,79.572899 -5.3008629,134.60271 17.145777,250.15909 72.175578,337.61978 127.20541,425.08053 223.67166,498.42827 311.11885,443.38994 Z"/>
+					</g>
+					<g clip-path="url(#bt_bb_organic_animation_641129f1a958d)">
+						<image class="item__img" xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://pawsitive.bold-themes.com/buddy/wp-content/uploads/sites/2/2019/07/organic_background_01.jpg" x="0" y="0" height="500px" width="500px" style="transform: scaleX(1) scaleY(1) translateX(0px) translateY(0px) rotate(0deg);"/>
+					</g>
+				</svg>

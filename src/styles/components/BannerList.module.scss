@@ -1,0 +1,17 @@
+.activities {
+  li {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+
+    p {
+      font-size: 14px;
+    }
+  }
+
+  &--img {
+    img {
+      width: 40px;
+    }
+  }
+}

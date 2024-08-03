@@ -1,0 +1,18 @@
+.services {
+  margin-bottom: 200px;
+}
+
+.pricing--content {
+  background-color: #f2f2f4;
+  border-radius: 30px;
+  padding: 60px 50px;
+}
+
+.second-service {
+  background: url("../../../public/assets/images/bg-services.jpg");
+  z-index: 9;
+  transform: scale(1.1);
+  li > p {
+    text-shadow: -1px 1px 3px #333333;
+  }
+}

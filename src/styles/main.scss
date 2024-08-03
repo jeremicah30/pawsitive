@@ -1,0 +1,17 @@
+//GLOBAL
+@import "../styles/globals.scss";
+
+//COMPONENTS
+@import "../styles/pages/homepage.scss",
+  "../styles/components/Navbar.module.scss",
+  "../styles/components/Offers.module.scss",
+  "../styles/components/BannerList.module.scss",
+  "../styles/components/Testimonial.module.scss",
+  "../styles/components/Services.module.scss",
+  "../styles//components//Range.module.scss";
+
+.navbar {
+  margin: auto;
+  position: sticky;
+  z-index: 10;
+}
