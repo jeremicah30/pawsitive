@@ -18,7 +18,7 @@ export { default as BallIcon } from "../images/ball-icon.svg";
 export { default as PillIcon } from "../images/pill-icon.svg";
 export { default as TaxiIcon } from "../images/taxi-icon.svg";
 export { default as WaterDog } from "../images/water-dog-bg.png";
-export { default as DogBg } from "../images/DogBg.png";
+export { default as DogBg } from "../images/dogBg.png";
 export { default as Brush } from "../images/brush.png";
 export { default as Bone } from "../images/bone.png";
 export { default as Basketball } from "../images/basketball-ball.png";
